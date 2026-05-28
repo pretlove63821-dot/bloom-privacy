@@ -1,0 +1,2 @@
+# bloom-privacy
+Privacy Policy
